@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Softwares"
-    url: /softwares/    
+  # - title: "Softwares"
+  #   url: /softwares/    
 
-  - title: "Reading"
-    url: /reading/    
+  # - title: "Reading"
+  #   url: /reading/    
 
   # - title: "Portfolio"
   #   url: /portfolio/

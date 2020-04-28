@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Always Curious"
+title                    : "Always Be Curious"
 title_separator          : "-"
 name                     : &name "Shengcai Liu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shengcai Liu"
-  avatar           : "profile.jpg"
+  avatar           : "Personal.JPG"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/senshineL"
+  github           : "senshineL"
   google_plus      :
   keybase          :
   instagram        :
