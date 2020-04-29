@@ -6,8 +6,8 @@ main:
   # - title: "Softwares"
   #   url: /softwares/    
 
-  - title: "Reading"
-    url: /reading/    
+  # - title: "Reading"
+  #   url: /reading/    
 
   # - title: "Portfolio"
   #   url: /portfolio/
