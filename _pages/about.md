@@ -28,13 +28,13 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 6. **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
-<!-- ## Softwares [[Github]](https://github.com/senshineL)
+## Softwares [[Github]](https://github.com/senshineL)
 
-GA-EAX-restart
+* [GA-EAX-restart](): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for EUC-2D TSP.
 
-MA
+* [MAeLen](): A effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW).
 
-TSP-selection-repo -->
+* [CNN-TSP](): End-to-end Algorithm Selection System for the EUC-2D Travelling Salesman Problem.
 
 ## Reviewers
 IEEE Transactions on Evolutionary Computation  
@@ -46,3 +46,6 @@ Information Sciences
 Memetic Computing  
 Natural Computing  
 Swarm and Evolutionary Optimization  
+
+## Experience & Awards
+
