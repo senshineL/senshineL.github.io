@@ -10,9 +10,14 @@ redirect_from:
 
 I am currently a Ph.D. student in the School of Computer Science and Technology, University of Science and Technology of China (USTC), under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from Southern University of Science and Technology. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
-**Research Interests**: Hyper-parameter Optimization, Automatic Algorithm Design, Combinatorial Optimization.
-
 **Email**: liusccc@gmail.com
+## Research Interests
+* Bayesian Optimization and its application to automated algortihm configuration
+* Theory and practical tools of automated algorithm configuration, and its application to automated algorithm design
+* End-to-end algorithm/hyper-parameter selection without using hand-crafted prblem features
+* Reinforcement learning and its application to combinatorial optimization
+* Acceleration techniques to large-scale real-world vehicle routing problems
+
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
 
@@ -30,22 +35,23 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 ## Softwares [[Github]](https://github.com/senshineL)
 
-* [GA-EAX-restart](): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for EUC-2D TSP.
+* [GA-EAX-restart](): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
-* [MAeLen](): A effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW).
+* [MAeLen](): An effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW). MAeLen represents the state-of-the-art in inexact VRPSDPTW-solving.
 
-* [CNN-TSP](): End-to-end Algorithm Selection System for the EUC-2D Travelling Salesman Problem.
+* [CNN-TSP](): End-to-end algorithm selection system for the EUC-2D TSP. CNN-TSP outperforms
 
-## Reviewers
-IEEE Transactions on Evolutionary Computation  
-IEEE Transactions on Cybernetics  
-IEEE Transactions on Emerging Topics in Computational Intelligence  
-Computational Intelligence Magazine  
-Frontiers of Computer Science  
-Information Sciences  
-Memetic Computing  
-Natural Computing  
-Swarm and Evolutionary Optimization  
+## Professional Services
+* One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
+* Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
+* Student member: IEEE, AAAI
 
-## Experience & Awards
+<!-- ## Education & Experience
+Sept. 2014 - June 2020  
+Ph.D. candidate in Computer Science  
+University of Science and Technology of China
+Sept. 2010 - June 2014  
+B.S. in Computer Science
+University of Science and Technology of China
 
+## Awards -->
