@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Always Be Curious"
 title_separator          : "-"
-name                     : &name "Shengcai Liu"
+name                     : &name "Shengcai Liu (刘晟材)"
 description              : &description "personal description"
 url                      : https://senshinel.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "senshineL"
+  github           : #"senshineL"
   google_plus      :
   keybase          :
   instagram        :

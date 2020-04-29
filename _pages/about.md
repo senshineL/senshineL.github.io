@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me."
+title: "Short Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,14 +12,12 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 **Research Interests**: Hyper-parameter Optimization, Automatic Algorithm Design, Combinatorial Optimization.
 
-Email: liusccc AT gmail.com
+**Email**: liusccc@gmail.com
 
-## Publications
+## Publications [[Google Scholar]](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)
 
-## Softwares
+## Softwares [[Github]](https://github.com/senshineL)
 
 ## Academic Services
 
 ## Experience & Awards
-
-## Reading
