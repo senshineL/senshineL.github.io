@@ -6,7 +6,7 @@ main:
   # - title: "Softwares"
   #   url: /softwares/    
 
-  # - title: "Interesting staff"
+  # - title: "Posts"
   #   url: /posts/    
 
   # - title: "Portfolio"
@@ -20,3 +20,6 @@ main:
 
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Interesting staff"
+    url: /pages/staff.md
