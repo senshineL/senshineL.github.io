@@ -44,7 +44,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * [MAeLen](): An effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW). MAeLen represents the state-of-the-art in inexact VRPSDPTW-solving.
 
-* [CNN-TSP](): End-to-end algorithm selection system for the EUC-2D TSP. CNN-TSP outperforms
+* [CNN-TSP](): End-to-end algorithm selection system for the EUC-2D TSP.
 
 ## Professional Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
