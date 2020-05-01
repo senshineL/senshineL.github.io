@@ -22,11 +22,11 @@ Here is a list of some staff which is most helpful for me to improve my programm
 
 <!-- * [Pytudes by Peter Norvig](https://github.com/norvig/pytudes) -->
 
-# Reading is a life-time thing
+<!-- # Reading is a life-time thing
 
 What I'm reading.
 * 《心！》
 
 What I've finished
 * 《春尽江南》
-* 《望春风》
+* 《望春风》 -->

@@ -38,13 +38,15 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 1. 一种车辆调度方法、装置、设备及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109559078A, 2019-04-02
 2. 一种仓储网络的库存调拨方法、装置及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109711778A, 2019-05-03
 
-## Softwares [[Github]](https://github.com/senshineL)
+## Softwares
 
-* [GA-EAX-restart](): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
+The code is available upon request.
 
-* [MAeLen](): An effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW). MAeLen represents the state-of-the-art in inexact VRPSDPTW-solving.
+* GA-EAX-restart: A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
-* [CNN-TSP](): End-to-end algorithm selection system for the EUC-2D TSP.
+* MAeLen: An effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW). MAeLen represents the state-of-the-art in inexact VRPSDPTW-solving.
+
+* CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
 
 ## Professional Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
