@@ -14,7 +14,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 ## Research Interests
 * Bayesian Optimization and its application to automated algortihm configuration
 * Theory and practical tools of automated algorithm configuration, and its application to automated algorithm design
-* End-to-end algorithm/hyper-parameter selection without using hand-crafted prblem features
+* End-to-end algorithm/hyper-parameter selection without using hand-crafted problem features
 * Reinforcement learning and its application to combinatorial optimization
 * Acceleration techniques to large-scale real-world vehicle routing problems
 
@@ -40,11 +40,9 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 ## Softwares
 
-The code is available upon request.
+* [VRPenstein](https://github.com/senshineL/VRPenstein): A highly-flexible and high-performance meta-heuristic with considerable large configuration space for the vehicle routing problems (VRP).
 
 * GA-EAX-restart: A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
-
-* MAeLen: An effective Memetic Algorithm for the vehicle routing problem with simultaneous delivery and pick-up and timewindows (VRPSDPTW). MAeLen represents the state-of-the-art in inexact VRPSDPTW-solving.
 
 * CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
 
