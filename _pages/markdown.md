@@ -20,12 +20,21 @@ Here is a list of some staff which is most helpful for me to improve my programm
 
 * Mathmatics for Computer Science [[PDF](http://senshineL.github.io/files/mcs.pdf), [MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)] - Elementary discrete mathematics for computer science and engineering.
 
+# Write good papers
+
+* [Academic Phrases](http://senshineL.github.io/files/Academiv-Phrase-Bank.pdf)
+* [Linggle](https://linggle.com/#adj.%20beach)
+* [Starting with a Good Name for Your Algo](http://acronymify.com/)
+* [DeepL](https://www.deepl.com/translator)
+* [语料库](https://www.linguee.com/)
+* [Latex Math Symbols](http://senshineL.github.io/files/latex-symbols.pdf)
+
 <!-- * [Pytudes by Peter Norvig](https://github.com/norvig/pytudes) -->
 
 # Reading is a life-time thing
 
 2020
-* 《终极理论之梦》温伯格，湖南科学技术出版社 2020.5.4 - 
+* 《终极理论之梦》温伯格，湖南科学技术出版社 2020.5.4 - 2020.6.5
 * 《香水》帕·聚斯金德，上海译文出版社
 * 《欲望的旗帜》格非，春风文艺出版社
 * 《呼吸》特德·姜，译林出版社
