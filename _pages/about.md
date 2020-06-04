@@ -21,7 +21,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
 
-1. Kangfei Zhao, Shengcai Liu, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)]
+1. Kangfei Zhao, **Shengcai Liu**, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)]
 
 2. Minshi Chen, Jianxun Chen, Peng Yang, **Shengcai Liu**, and Ke Tang. A Heuristic Repair Method For Dial-A-Ride Problem In Intracity Logistic Based On Neighborhood Shrinking. *Multimedia Tools and Applications, 2020.* [[PDF](https://link.springer.com/content/pdf/10.1007/s11042-020-08894-7.pdf)]
 
