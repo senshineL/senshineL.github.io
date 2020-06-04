@@ -21,17 +21,19 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
 
-1. Minshi Chen, Jianxun Chen, Peng Yang, **Shengcai Liu**, and Ke Tang. A Heuristic Repair Method For Dial-A-Ride Problem In Intracity Logistic Based On Neighborhood Shrinking. *Multimedia Tools and Applications, 2020.* [[PDF](https://link.springer.com/content/pdf/10.1007/s11042-020-08894-7.pdf)]
+1. Kangfei Zhao, Shengcai Liu, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)]
 
-2. **Shengcai Liu**, Ke Tang, and Xin Yao. Generative Adversarial Construction of Parallel Portfolios. *IEEE Transactions on Cybernetics, 2020.* [[preprint PDF](http://senshineL.github.io/files/tcyb2020.pdf)]
+2. Minshi Chen, Jianxun Chen, Peng Yang, **Shengcai Liu**, and Ke Tang. A Heuristic Repair Method For Dial-A-Ride Problem In Intracity Logistic Based On Neighborhood Shrinking. *Multimedia Tools and Applications, 2020.* [[PDF](https://link.springer.com/content/pdf/10.1007/s11042-020-08894-7.pdf)]
+
+3. **Shengcai Liu**, Ke Tang, and Xin Yao. Generative Adversarial Construction of Parallel Portfolios. *IEEE Transactions on Cybernetics, 2020.* [[preprint PDF](http://senshineL.github.io/files/tcyb2020.pdf)]
    
-3. **Shengcai Liu**, Ke Tang, and Xin Yao. On Performance Estimation in Automatic Algorithm Configuration. *The 34th AAAI Conference on Artificial Intelligence (AAAI 2020).* [[preprint PDF](http://senshineL.github.io/files/AAAI-2020-final.pdf)]
+4. **Shengcai Liu**, Ke Tang, and Xin Yao. On Performance Estimation in Automatic Algorithm Configuration. *The 34th AAAI Conference on Artificial Intelligence (AAAI 2020).* [[preprint PDF](http://senshineL.github.io/files/AAAI-2020-final.pdf)]
 
-4. **Shengcai Liu**, Ke Tang, and Xin Yao. Automatic Construction of Parallel Portfolios via Explicit Instance Grouping. *The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019).* [[PDF](http://senshineL.github.io/files/AAAI-2019-final.pdf)]
+5. **Shengcai Liu**, Ke Tang, and Xin Yao. Automatic Construction of Parallel Portfolios via Explicit Instance Grouping. *The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019).* [[PDF](http://senshineL.github.io/files/AAAI-2019-final.pdf)]
 
-5. **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. A*rXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
+6. **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
 
-6. **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
+7. **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
 ## Patents
 
