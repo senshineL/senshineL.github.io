@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shengcai Liu (刘晟材)"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
