@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="Kb-L2KQRXZfAlHXBtj3LR4j5umJnONiIep6DfeUYu88" />
+google_site_verification : <meta name="google-site-verification" content="Kb-L2KQRXZfAlHXBtj3LR4j5umJnONiIep6DfeUYu88">
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Shengcai Liu (刘晟材)"
   avatar           : "Personal.JPG"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Ph.D, Department of Computer Science and Technology, USTC"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
