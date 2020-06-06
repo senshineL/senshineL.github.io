@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shengcai Liu (刘晟材)"
+title                    : "SenshineL/Homepage"
 title_separator          : "-"
 name                     : &name "Shengcai Liu (刘晟材)"
 description              : &description "personal description"
@@ -103,7 +103,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/晟材-刘-a73957150/"
   orcid            : "https://orcid.org/0000-0002-4223-2438"
-  email            : "liusccc@gmail.com"
+  email            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
