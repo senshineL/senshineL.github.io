@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SenshineL/Homepage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Shengcai Liu (刘晟材)"
 description              : &description "personal description"
