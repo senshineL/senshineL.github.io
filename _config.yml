@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Always Be Curious"
+title                    : "Shengcai Liu (刘晟材)"
 title_separator          : "-"
 name                     : &name "Shengcai Liu (刘晟材)"
 description              : &description "personal description"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : <meta name="google-site-verification" content="Kb-L2KQRXZfAlHXBtj3LR4j5umJnONiIep6DfeUYu88" />
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/晟材-刘-a73957150/"
+  orcid            : "https://orcid.org/0000-0002-4223-2438"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
