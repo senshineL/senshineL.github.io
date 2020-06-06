@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="Kb-L2KQRXZfAlHXBtj3LR4j5umJnONiIep6DfeUYu88">
+google_site_verification : "Kb-L2KQRXZfAlHXBtj3LR4j5umJnONiIep6DfeUYu88"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Shengcai Liu (刘晟材)"
   avatar           : "Personal.JPG"
-  bio              : "Ph.D, Department of Computer Science and Technology, USTC"
+  bio              : "Ph.D, School of Computer Science and Technology, USTC"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en"
-  email            :
+  github           : "senshineL"
+  googlescholar    : "https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"senshineL"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,6 +103,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/晟材-刘-a73957150/"
   orcid            : "https://orcid.org/0000-0002-4223-2438"
+  email            : "liusccc@gmail.com"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
