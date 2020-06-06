@@ -12,12 +12,17 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 **Email**: liusccc@gmail.com
 ## Research Interests
-* Bayesian Optimization and its application to automated algortihm configuration
+* Bayesian Optimization and its application to automated algorithm configuration
 * Theory and practical tools of automated algorithm configuration, and its application to automated algorithm design
 * End-to-end algorithm/hyper-parameter selection without using hand-crafted problem features
 * Reinforcement learning and its application to combinatorial optimization
 * Acceleration techniques to large-scale real-world vehicle routing problems
 
+## Community Services
+* One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
+* Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
+* Conference reviewers: AAAI 2019, AAAI 2020, IJCAI 2020
+* Student member: IEEE, AAAI
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
 
@@ -47,11 +52,6 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 * GA-EAX-restart: A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
 * CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
-
-## Professional Services
-* One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
-* Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
-* Student member: IEEE, AAAI
 
 <!-- ## Education & Experience
 Sept. 2014 - June 2020  
