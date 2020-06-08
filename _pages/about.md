@@ -15,8 +15,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 * Bayesian Optimization and its application to automated algorithm configuration
 * Theory and practical tools of automated algorithm configuration, and its application to automated algorithm design
 * End-to-end algorithm/hyper-parameter selection without using hand-crafted problem features
-* Reinforcement learning and its application to combinatorial optimization
-* Acceleration techniques to large-scale real-world vehicle routing problems
+* Reinforcement learning and its application to combinatorial optimization, and acceleration techniques to large-scale real-world vehicle routing problems
 
 ## Community Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
@@ -45,7 +44,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 1. 一种车辆调度方法、装置、设备及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109559078A, 2019-04-02
 2. 一种仓储网络的库存调拨方法、装置及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109711778A, 2019-05-03
 
-## Softwares
+## Code & Datasets
 
 * [VRPenstein](https://github.com/senshineL/VRPenstein): A highly-flexible and high-performance meta-heuristic with considerable large configuration space for the vehicle routing problems (VRP).
 
@@ -59,6 +58,4 @@ Ph.D. candidate in Computer Science
 University of Science and Technology of China
 Sept. 2010 - June 2014  
 B.S. in Computer Science
-University of Science and Technology of China
-
-## Awards -->
+University of Science and Technology of China -->
