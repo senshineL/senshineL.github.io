@@ -48,7 +48,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * [VRPenstein](https://github.com/senshineL/VRPenstein): A highly-flexible and high-performance meta-heuristic with considerable large configuration space for the vehicle routing problems (VRP).
 
-* GA-EAX-restart: A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
+* [GA-EAX-restart](https://github.com/senshineL/GA-EAX-restart): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
 * CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
 
