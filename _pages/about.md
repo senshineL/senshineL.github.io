@@ -52,6 +52,8 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
 
+## Find the Purpose
+![][http://senshineL.github.io/images/Purpose-Diagram-4.png]
 <!-- ## Education & Experience
 Sept. 2014 - June 2020  
 Ph.D. candidate in Computer Science  
