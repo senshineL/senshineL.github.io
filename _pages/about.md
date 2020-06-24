@@ -12,7 +12,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 **Email**: liusccc@gmail.com
 <p align="center">
-  <img width="460" height="300" src="http://senshineL.github.io/images/Purpose-Diagram-4.png">
+  <img width="460" height="300" src="http://senshineL.github.io/images/paper-thin-purpose.png">
 </p>
 <!-- ![](http://senshineL.github.io/images/Purpose-Diagram-4.png) -->
 
