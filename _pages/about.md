@@ -29,6 +29,8 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 * Student member: IEEE, AAAI
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
+### 2020
+* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501)
 
 * Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (equal contribution)
 
@@ -38,10 +40,13 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
    
 * **Shengcai Liu**, Ke Tang, and Xin Yao. On Performance Estimation in Automatic Algorithm Configuration. *The 34th AAAI Conference on Artificial Intelligence (AAAI 2020).* [[preprint PDF](http://senshineL.github.io/files/AAAI-2020-final.pdf)]
 
+### 2019
 * **Shengcai Liu**, Ke Tang, and Xin Yao. Automatic Construction of Parallel Portfolios via Explicit Instance Grouping. *The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019).* [[PDF](http://senshineL.github.io/files/AAAI-2019-final.pdf)]
 
+### 2017
 * **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
 
+### 2015
 * **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
 ## Patents
