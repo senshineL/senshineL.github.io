@@ -32,7 +32,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501)
 
-* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (equal contribution)
+* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**)
 
 * Minshi Chen, Jianxun Chen, Peng Yang, **Shengcai Liu**, and Ke Tang. A Heuristic Repair Method For Dial-A-Ride Problem In Intracity Logistic Based On Neighborhood Shrinking. *Multimedia Tools and Applications, 2020.* [[PDF](https://link.springer.com/content/pdf/10.1007/s11042-020-08894-7.pdf)]
 
