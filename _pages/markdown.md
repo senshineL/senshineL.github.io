@@ -31,7 +31,7 @@ Here is a list of some staff which is most helpful for me to improve my programm
 
 <!-- * [Pytudes by Peter Norvig](https://github.com/norvig/pytudes) -->
 
-# Reading is a life-time thing
+<!-- # Reading is a life-time thing
 
 2020
 * 《欲望的旗帜》格非，春风文艺出版社
@@ -78,4 +78,4 @@ Here is a list of some staff which is most helpful for me to improve my programm
 * 《漫长的告别》雷蒙德·钱德勒，南海出版公司 2018.2.15 - 2018.3.1
 * 《在细雨中呼喊》余华，南海出版公司 2018.2.22- 2018.2.26
 * 《第七天》余华，新星出版社 2018.2.5 - 2018.2.15
-* 《兄弟》余华，作家出版社 2018.2.1 - 2018.2.3
+* 《兄弟》余华，作家出版社 2018.2.1 - 2018.2.3 -->
