@@ -56,7 +56,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 ## Community Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
 * Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
-* Conference reviewers: AAAI 2019, AAAI 2020, IJCAI 2020
+* PC members: AAAI 2019, AAAI 2020, IJCAI 2020, AAAI 2021
 * Student member: IEEE, AAAI
 
 <!-- ## Education & Experience
