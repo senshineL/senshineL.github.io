@@ -51,7 +51,7 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * [GA-EAX-restart](https://github.com/senshineL/GA-EAX-restart): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
-* CNN-TSP: End-to-end algorithm selection system for the EUC-2D TSP.
+* [Minimal PPO](https://github.com/senshineL/minimal-ppo): A minimal implementation of Proximal Policy Optimization for discrete and continuous control.
 
 ## Community Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
