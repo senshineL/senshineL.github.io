@@ -38,6 +38,8 @@ I am currently a research assistant professor in the Department of Computer Scie
 * **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
 ### Preprints
+* **Shengcai Liu**, Ke Tang, and Xin Yao. Memetic Search for Vehicle Routing with Simultaneous Pickup-Delivery and Time Windows. *arXiv preprint arXiv:2011.06331* [[preprint PDF]](https://arxiv.org/pdf/2011.06331.pdf)
+
 * Wenjie Chen, **Shengcai Liu**, and Ke Tang. A New Knowledge Gradient-based Method for Constrained Bayesian Optimization. *ArXiv preprint arXiv:2101.08743* [[preprint PDF]](https://arxiv.org/pdf/2101.08743.pdf)
 
 * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501.pdf)
