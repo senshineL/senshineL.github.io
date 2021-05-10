@@ -38,12 +38,14 @@ I am currently a research assistant professor in the Department of Computer Scie
 * **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
 ### Preprints
-* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501)
+* Wenjie Chen, **Shengcai Liu**, and Ke Tang. A New Knowledge Gradient-based Method for Constrained Bayesian Optimization. *ArXiv preprint arXiv:2101.08743* [[preprint PDF]](https://arxiv.org/pdf/2101.08743.pdf)
+
+* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501.pdf)
 
 * Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**)
 
 * **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
-* 
+
 <!-- ## Patents
 
 1. 一种车辆调度方法、装置、设备及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109559078A, 2019-04-02
