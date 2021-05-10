@@ -7,14 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently a Ph.D. student in the School of Computer Science and Technology, University of Science and Technology of China (USTC), under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from Southern University of Science and Technology. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
+I am currently a research assistant professor in the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before joining SUSTech, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from University of Science and Technology of China. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
 ## Research Interests
-* Bayesian Optimization and its application to automated algorithm configuration
-* Theory and practical tools of automated algorithm configuration, and its application to automated algorithm design
-* End-to-end algorithm/hyper-parameter selection without using hand-crafted problem features
-* Reinforcement learning and its application to combinatorial optimization, and acceleration techniques to large-scale real-world vehicle routing problems
+* Efficient Algorithms for Computationally Hard Problems 
+* Automated algorithm configuration and its applications
+* Intersection between Parallel Algorithms Portfolios and Evolutionary Computation
 
 **Email**: liusccc@gmail.com
 <p align="center">
@@ -23,10 +21,11 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 <!-- ![](http://senshineL.github.io/images/Purpose-Diagram-4.png) -->
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
+* **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.*
 
-* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501)
+* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parallel Algorithm Portfolio Construction via Co-evolution. *IEEE Transactions on Evolutionary Computation, 2021.* [[preprint PDF](http://senshineL.github.io/files/CEPS.pdf)]
 
-* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**)
+* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Towards Feature-free TSP Solver Selection: A Deep Learning Approach. *The 2021 International Joint Conference on Neural Networks (IJCNN 2021).* [[PDF](http://senshineL.github.io/files/IJCNN2021.pdf)] (**equal contribution**)
 
 * Minshi Chen, Jianxun Chen, Peng Yang, **Shengcai Liu**, and Ke Tang. A Heuristic Repair Method For Dial-A-Ride Problem In Intracity Logistic Based On Neighborhood Shrinking. *Multimedia Tools and Applications, 2020.* [[PDF](https://link.springer.com/content/pdf/10.1007/s11042-020-08894-7.pdf)]
 
@@ -36,10 +35,15 @@ I am currently a Ph.D. student in the School of Computer Science and Technology,
 
 * **Shengcai Liu**, Ke Tang, and Xin Yao. Automatic Construction of Parallel Portfolios via Explicit Instance Grouping. *The 33rd AAAI Conference on Artificial Intelligence (AAAI 2019).* [[PDF](http://senshineL.github.io/files/AAAI-2019-final.pdf)]
 
-* **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
-
 * **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
+### Preprints
+* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501)
+
+* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**)
+
+* **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
+* 
 <!-- ## Patents
 
 1. 一种车辆调度方法、装置、设备及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109559078A, 2019-04-02
