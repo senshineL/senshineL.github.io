@@ -42,9 +42,9 @@ I am currently a research assistant professor in the Department of Computer Scie
 
 * Wenjie Chen, **Shengcai Liu**, and Ke Tang. A New Knowledge Gradient-based Method for Constrained Bayesian Optimization. *ArXiv preprint arXiv:2101.08743* [[preprint PDF]](https://arxiv.org/pdf/2101.08743.pdf)
 
-* Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501.pdf)
+<!-- * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parameter Tuning Via Co-evolution. *Arxiv preprint arxiv:2007.0050.* [[preprint PDF]](https://arxiv.org/abs/2007.00501.pdf) -->
 
-* Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**)
+<!-- * Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Leveraging TSP Solver Complementarity via Deep Learning. *ArXiv preprint arXiv:2006.00715.* [[preprint PDF](https://arxiv.org/pdf/2006.00715.pdf)] (**equal contribution**) -->
 
 * **Shengcai Liu**, Ke Tang, and Xin Yao. Experience-Based Optimization: A Coevolutionary Approach. *ArXiv preprint arXiv:1703.09865.* [[preprint PDF](https://arxiv.org/pdf/1703.09865)]
 
