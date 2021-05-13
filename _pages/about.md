@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research assistant professor in the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech). Before joining SUSTech, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from University of Science and Technology of China. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
+I am currently a research assistant professor at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech).
+Before joining SUSTech, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from University of Science and Technology of China. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
 ## Research Interests
-* Efficient Algorithms for Computationally Hard Problems 
-* Automated algorithm configuration and its applications
 * Intersection between Parallel Algorithms Portfolios and Evolutionary Computation
+* Efficient Algorithms for Black-box Combinatorial Optimization Problems 
+* Automated Algorithm Configuration and Its Applications
+
 
 **Email**: liusccc@gmail.com
 <p align="center">
@@ -21,7 +23,7 @@ I am currently a research assistant professor in the Department of Computer Scie
 <!-- ![](http://senshineL.github.io/images/Purpose-Diagram-4.png) -->
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
-* **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.*
+* **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.* To appear.
 
 * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parallel Algorithm Portfolio Construction via Co-evolution. *IEEE Transactions on Evolutionary Computation, 2021.* [[preprint PDF](http://senshineL.github.io/files/CEPS.pdf)]
 
@@ -64,8 +66,8 @@ I am currently a research assistant professor in the Department of Computer Scie
 ## Community Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
 * Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
-* PC members: AAAI 2019, AAAI 2020, IJCAI 2020, AAAI 2021
-* Student member: IEEE, AAAI
+* PC members: AAAI 2019, AAAI 2020, IJCAI 2020, AAAI 2021, ICML 2021
+* Member: IEEE, AAAI
 
 <!-- ## Education & Experience
 Sept. 2014 - June 2020  
