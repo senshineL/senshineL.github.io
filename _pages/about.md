@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a research assistant professor at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech).
 
-Before joining SUSTech, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from USTC. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
+Before joining SUSTech in September 2020, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in June 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from USTC. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
 ## Research Interests
 * Intersection between Parallel Algorithms Portfolios and Evolutionary Computation
