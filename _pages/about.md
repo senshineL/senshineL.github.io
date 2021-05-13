@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a research assistant professor at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech).
 
-Before joining SUSTech in September 2020, I obtinaed my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in June 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from USTC. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
+Before joining SUSTech in September 2020, I obtained my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in June 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from USTC. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
 ## Research Interests
 * Intersection between Parallel Algorithms Portfolios and Evolutionary Computation
@@ -60,7 +60,7 @@ Before joining SUSTech in September 2020, I obtinaed my PH.D. degree in the Scho
 
 * [VRPenstein](https://github.com/senshineL/VRPenstein): A highly-flexible and high-performance meta-heuristic with considerable large configuration space for the vehicle routing problems (VRP).
 
-* [GA-EAX-restart](https://github.com/senshineL/GA-EAX-restart): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistantly outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
+* [GA-EAX-restart](https://github.com/senshineL/GA-EAX-restart): A restart version of the powerful Genetic Algorithm with Edge Assembly Crossover (GA-EAX by Nagata & Kobayashi). In our massive experiments, GA-EAX-restart could consistently outperform GA-EAX and LKH 2.0.9, the two state-of-the-art inexact solvers for TSP.
 
 * [Minimal PPO](https://github.com/senshineL/minimal-ppo): A minimal implementation of Proximal Policy Optimization for discrete and continuous control.
 
