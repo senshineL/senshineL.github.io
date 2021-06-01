@@ -12,7 +12,7 @@ I am currently a Research Assistant Professor at the Department of Computer Scie
 Before joining SUSTech in September 2020, I obtained my PH.D. degree in the School of Computer Science and Technology, University of Science and Technology of China (USTC), in June 2020, under the supervision of [Prof. Xin Yao](https://www.cs.bham.ac.uk/~xin/) from University of Birminghan and [Prof. Ke Tang](http://faculty.sustech.edu.cn/tangk3/en/) from USTC. In addition, I obtained my bachelor degree from Department of Computer Science and Technology, USTC in June 2014.
 
 ## Research Interests
-* Intersection between Parallel Algorithms Portfolios and Evolutionary Computation
+* Intersection between Parallel Algorithm Portfolios and Evolutionary Computation
 * Efficient Algorithms for Black-box Combinatorial Optimization Problems 
 * Automated Algorithm Configuration and Its Applications
 
@@ -24,7 +24,7 @@ Before joining SUSTech in September 2020, I obtained my PH.D. degree in the Scho
 <!-- ![](http://senshineL.github.io/images/Purpose-Diagram-4.png) -->
 
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
-* **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.* To appear.
+<!-- * **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.* To appear. -->
 
 * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parallel Algorithm Portfolio Construction via Co-evolution. *IEEE Transactions on Evolutionary Computation, 2021.* [[preprint PDF](http://senshineL.github.io/files/CEPS.pdf)]
 
@@ -56,6 +56,10 @@ Before joining SUSTech in September 2020, I obtained my PH.D. degree in the Scho
 1. 一种车辆调度方法、装置、设备及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109559078A, 2019-04-02
 2. 一种仓储网络的库存调拨方法、装置及存储介质[P]. 刘晟材,杨鹏,唐珂,姚新. 中国专利:CN109711778A, 2019-05-03 -->
 
+## Invited Talks
+* Co-Evolved Parallel Algorithm Portfolios @ The 7th Workshop on Evolutionary Computation and Learning (ECOLE'2021). May 15, 2021.
+* Algorithm Portfolios for Beginners @ Magic-Data (数据魔术师). April 6, 2021. (online)
+
 ## Code & Datasets
 
 * [VRPenstein](https://github.com/senshineL/VRPenstein): A highly-flexible and high-performance meta-heuristic with considerable large configuration space for the vehicle routing problems (VRP).
@@ -67,7 +71,7 @@ Before joining SUSTech in September 2020, I obtained my PH.D. degree in the Scho
 ## Community Services
 * One of the editors of [[All About Evolutionary Optimization (AAEO)](http://ecole.asia/news/)] (i.e., ECOLE weekly).
 * Journal reviewers: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Emerging Topics in Computational Intelligence, Computational Intelligence Magazine, Frontiers of Computer Science, Information Sciences, Memetic Computing, Natural Computing, Swarm and Evolutionary Optimization.
-* PC members: AAAI 2019, AAAI 2020, IJCAI 2020, AAAI 2021, ICML 2021
+* PC members: AAAI 2019, AAAI 2020, IJCAI 2020, AAAI 2021, ICML 2021, NeurIPS 2021
 * Member: IEEE, AAAI
 
 <!-- ## Education & Experience
