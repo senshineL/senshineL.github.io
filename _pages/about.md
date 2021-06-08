@@ -26,6 +26,8 @@ Before joining SUSTech in September 2020, I obtained my PH.D. degree in the Scho
 ## Publications [[Google Scholar](https://scholar.google.com/citations?user=tV0nV3oAAAAJ&hl=en)]
 <!-- * **Shengcai Liu**, Ning Lu, and Ke Tang. Efficient Combinatorial Optimization for Adversarial Textual Attack. *The 2021 Annual Meeting of the Association for Computational Linguistics (ACL 2021) Findings.* To appear. -->
 
+* **Shengcai Liu**, Ke Tang, and Xin Yao. Memetic Search for Vehicle Routing with Simultaneous Pickup-Delivery and Time Windows. *Swarm and Evolutionary Computation, 2021* [[preprint PDF]](http://senshineL.github.io/files/MATE-SEC.pdf)
+
 * Ke Tang, **Shengcai Liu**, Peng Yang, and Xin Yao. Few-shots Parallel Algorithm Portfolio Construction via Co-evolution. *IEEE Transactions on Evolutionary Computation, 2021.* [[preprint PDF](http://senshineL.github.io/files/CEPS.pdf)]
 
 * Kangfei Zhao\*, **Shengcai Liu\***, Yu Rong, and Jeffrey Xu Yu. Towards Feature-free TSP Solver Selection: A Deep Learning Approach. *The 2021 International Joint Conference on Neural Networks (IJCNN 2021).* [[PDF](http://senshineL.github.io/files/IJCNN2021.pdf)] (**equal contribution**)
@@ -41,7 +43,6 @@ Before joining SUSTech in September 2020, I obtained my PH.D. degree in the Scho
 * **Shengcai Liu**, Yufan Wei, Ke Tang, A.K. Qin, and Xin Yao. Qos-aware Long-Term Based Service Composition In Cloud Computing. *The 14th IEEE Congress on Evolutionary Computation (CEC 2015).* [[PDF](http://senshineL.github.io/files/CEC-2015-QoS.pdf)]
 
 ### Preprints
-* **Shengcai Liu**, Ke Tang, and Xin Yao. Memetic Search for Vehicle Routing with Simultaneous Pickup-Delivery and Time Windows. *arXiv preprint arXiv:2011.06331* [[preprint PDF]](https://arxiv.org/pdf/2011.06331.pdf)
 
 * Wenjie Chen, **Shengcai Liu**, and Ke Tang. A New Knowledge Gradient-based Method for Constrained Bayesian Optimization. *ArXiv preprint arXiv:2101.08743* [[preprint PDF]](https://arxiv.org/pdf/2101.08743.pdf)
 
